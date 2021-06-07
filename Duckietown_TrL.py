@@ -29,9 +29,9 @@ G.setup(21, G.OUT) #No.40
 
 
 #4th set
-G.setup(0, G.OUT) #No.27
-G.setup(5, G.OUT) #No.29
-G.setup(1, G.OUT) #No.28
+G.setup(5, G.OUT) #No.27
+G.setup(6, G.OUT) #No.29
+G.setup(12, G.OUT) #No.28
 #GND No.30
 
 

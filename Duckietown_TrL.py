@@ -68,4 +68,15 @@ while running:
     G.output(21, G.LOW) #g3
     G.output(4, G.LOW) #r2
     G.output(5, G.LOW) #r4
+    
+    
+    G.output(22, G.HIGH) #y1
+    G.output(20, G.HIGH) #y3
+    G.output(14, G.HIGH) #y2
+    G.output(6, G.HIGH) #y4
+    sleep(1.5)
+    G.output(22, G.LOW) #y1
+    G.output(20, G.LOW) #y3
+    G.output(14, G.LOW) #y2
+    G.output(6, G.LOW) #y4
    
